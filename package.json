@@ -1,6 +1,6 @@
 {
   "name": "create-vivia",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "create vivia project",
   "author": "Saurlax",
   "keywords": [
@@ -19,6 +19,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "chalk": "^5.3.0"
+    "chalk": "^4"
   }
 }
