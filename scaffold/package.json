@@ -1,0 +1,13 @@
+{
+  "name": "vivia-starter",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "vivia serve",
+    "build": "vivia build"
+  },
+  "dependencies": {
+    "vivia": "latest"
+  }
+}
