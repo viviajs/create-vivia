@@ -7,7 +7,7 @@
     "vivia"
   ],
   "files": [
-    "template",
+    "scaffold",
     "index.js"
   ],
   "bin": {
