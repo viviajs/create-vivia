@@ -2,7 +2,7 @@
   "name": "create-vivia",
   "version": "0.0.1",
   "description": "create vivia project",
-  "author": "Saurlax <saurlax@qq.com>",
+  "author": "Saurlax",
   "keywords": [
     "vivia"
   ],
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/saurlax/create-vivia.git"
+    "url": "git+https://github.com/saurlax/create-vivia.git"
   },
   "license": "MIT",
   "dependencies": {
